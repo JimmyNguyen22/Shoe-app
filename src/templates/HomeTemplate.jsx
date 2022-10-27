@@ -6,7 +6,7 @@ import Header from "../components/Header/Header";
 export default function HomeTemplate() {
   return (
     <>
-      <Header></Header>
+      <Header>aaa</Header>
       <Outlet></Outlet>
       <Footer></Footer>
     </>
